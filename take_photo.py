@@ -6,7 +6,7 @@ import time
 import os
 import sys
 
-filename= "background"
+filename= "charmander"
 
 picam2 = Picamera2()
 

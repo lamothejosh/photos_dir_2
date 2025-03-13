@@ -1,0 +1,7 @@
+0 Charmander
+1 Bulbasaur
+2 Pikachu
+3 PokeBall
+4 Snorlax
+5 Squirtle
+6 Background
